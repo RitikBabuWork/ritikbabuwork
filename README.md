@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 style="color: #44AEFB">![alt text](image.png) AI Tools</h2>
 <!-- Logo of C Language -->
-    <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="https://thumbs.dreamstime.com/b/minsk-belarus-openai-chatgpt-logo-artifical-chatbot-system-chat-bot-button-web-app-phone-icon-symbol-editorial-vector-275376231.jpg?w=360" alt="c" width="40" height="40"/> </a> 
+    <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1690998448chat-gpt-logo-png.png" alt="c" width="40" height="40"/> </a> 
 
 <hr>
 
