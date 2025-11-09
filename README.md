@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="coding" width="500" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif">
 <!-- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikbabuwork&label=Profile%20views&color=0e75b6&style=flat" alt="codewithritikcoder" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikbabuwork&label=Profile%20views&color=0e75b6&style=flat" alt="Ritik.babu.work" /> </p>
+<p align="left"> <a href="https://twitter.com/CodeWithRitik" target="blank"><img src="https://img.shields.io/twitter/follow/CodeWithRitik?logo=twitter&style=for-the-badge" alt="RitikVerma's Twitter" /></a> </p>
 
 <hr>
 <h1>
