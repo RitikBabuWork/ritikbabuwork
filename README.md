@@ -77,7 +77,9 @@ You can click the Preview link to take a look at your changes.
 <!-- Logo of ChatGPT AI -->
     <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="ChatGPT.png" alt="ChatGPT AI" width="40" height="40"/> </a> 
 <!-- Logo of Gemini AI -->
-    <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="Gemini.png" alt="Gemini AI" width="40" height="40"/> </a> 
+    <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="Gemini.png" alt="Gemini AI" width="40" height="40"/> </a>
+import { Gemini } from '@lobehub/icons';
+export default () => <Gemini.Avatar size={56} />;
 
 <hr>
 
