@@ -57,18 +57,24 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <!-- Instagram Logo with ritikcoder Insta Handle Link 🔗 -->
-<a href="https://www.instagram.com/theritik042025/" target="blank"><img align="center" src="https://www.svgrepo.com/show/349410/instagram.svg" alt="https://www.instagram.com/theritik042025/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/theritik042025/" target="blank"><img align="center" src="https://www.svgrepo.com/show/349410/instagram.svg" alt="Instagram/" height="30" width="40" /></a>
+
 <!-- Youtube Logo with Coding Will Channel Link 🔗 -->  
-<a href="https://www.youtube.com/channel/UCqLVDNa2tHOvogL4XHKaI9Q" target="blank"><img align="center" src="https://www.svgrepo.com/show/349577/youtube.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCqLVDNa2tHOvogL4XHKaI9Q" target="blank"><img align="center" src="https://www.svgrepo.com/show/349577/youtube.svg" alt="Youtube" height="30" width="40" /></a>
+
 <!-- Twitter Logo with ritikcoder Handle Link 🔗 -->
-<a href="https://twitter.com/home" target="blank"><img align="center" src="https://www.svgrepo.com/show/349537/twitter.svg" alt="https://twitter.com/home" height="30" width="40" /></a>
+<a href="https://twitter.com/home" target="blank"><img align="center" src="https://www.svgrepo.com/show/349537/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+
 <!-- Linkedin Logo with ritikcoder Handle Link 🔗 -->
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://www.svgrepo.com/show/343567/linkedin-network-communication-connection-internet-online.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritik-verma-7bb674397/" target="blank"><img align="center" src="https://www.svgrepo.com/show/343567/linkedin-network-communication-connection-internet-online.svg" alt="Linkedin" height="30" width="40" /></a>
+
 <!-- WhatsApp Logo with ritikcoder Handle Link 🔗 -->
-<a href="http://surl.li/muyqf" target="blank"><img align="center" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="http://surl.li/muyqf" target="blank"><img align="center" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+
 <!-- Website Logo with My Website Link 🔗 -->
-<a href="https://sites.google.com/view/codingwill/home" target="blank"><img align="center" src="https://www.svgrepo.com/show/249896/browser-www.svg" alt="https://sites.google.com/view/codingwill/home" height="30" width="40" /></a>
+<a href="https://sites.google.com/view/codingwill/home" target="blank"><img align="center" src="https://www.svgrepo.com/show/249896/browser-www.svg" alt="Website" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
@@ -162,8 +168,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats 
+Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats
+
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center"></div>
 
