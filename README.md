@@ -57,7 +57,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <!-- Instagram Logo with ritikcoder Insta Handle Link 🔗 -->
 <a href="https://www.instagram.com/theritik042025/" target="blank"><img align="center" src="https://www.svgrepo.com/show/349410/instagram.svg" alt="Instagram/" height="30" width="40" /></a>
 <!-- Youtube Logo with Coding Will Channel Link 🔗 -->  
