@@ -140,7 +140,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.svgrepo.com/show/362129/notepad.svg" alt="unity" width="40" height="40"/>
     <img src="https://findicons.com/files/icons/2561/1st_mx_is_4c/256/notepad.png" alt="unity" width="40" height="40"/>
     <img src="https://www.svgrepo.com/show/452109/sublime-text.svg" alt="unity" width="40" height="40"/>
-    <img src="https://icon-icons.com/downloadimage.php?id=22513&root=183/PNG/256/&file=Dev_22513.png" alt="unity" width="40" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="unity" width="40" height="40"/>
     <img src="https://www.svgrepo.com/show/452164/atom.svg" alt="unity" width="40" height="40"/>
     <img src="https://www.svgrepo.com/show/454417/build-codeblocks-engineering.svg" alt="unity" width="40" height="40"/>
     <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="unity" width="40" height="40"/>
