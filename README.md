@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 ![image](TopBanner.png)
 
 <h1 align="center">
-    <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritik+Verma!;" /> -->
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋+I'm+Ritik+Verma;" />
 </h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
@@ -24,12 +23,16 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="coding" width="500" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif">
 <!-- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithritikcoder&label=Profile%20views&color=0e75b6&style=flat" alt="codewithritikcoder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikbabuwork&label=Profile%20views&color=0e75b6&style=flat" alt="codewithritikcoder" /> </p>
 
 
 <hr>
 <h1>
-    <li type="desc"> Ritik verma </li>
+    <u>
+        <b>
+            <li type="desc"> Ritik verma </li>
+        </b>
+    </u>
 </h1>
 <p>✨ Would be Software Engineer ✨</p>
 <hr>
