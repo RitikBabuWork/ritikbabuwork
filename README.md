@@ -76,10 +76,14 @@ You can click the Preview link to take a look at your changes.
 <h2 style="color: #44AEFB">✈️ AI Tools</h2>
 <!-- Logo of ChatGPT AI -->
     <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="ChatGPT.png" alt="ChatGPT AI" width="40" height="40"/> </a> 
+<!-- Logo of Copilot -->
+    <a href="#Copilot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/copilot-color.png" alt="Copilot AI" width="40" height="40"/> </a>
 <!-- Logo of Gemini AI -->
-    <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="Gemini.png" alt="Gemini AI" width="40" height="40"/> </a>
-import { Gemini } from '@lobehub/icons';
-export default () => <Gemini.Avatar size={56} />;
+    <a href="#Gemini" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" alt="Gemini AI" width="40" height="40"/> </a>
+<!-- Logo of Meta -->
+    <a href="#Copilot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/meta-color.png" alt="Meta AI" width="40" height="40"/> </a>
+<!-- Logo of DeepSeek -->
+    <a href="#DeepSeek" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/deepseek-color.png" alt="DeepSeek AI" width="40" height="40"/> </a>
 
 <hr>
 
