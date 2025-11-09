@@ -71,7 +71,12 @@ You can click the Preview link to take a look at your changes.
 <a href="https://sites.google.com/view/codingwill/home" target="blank"><img align="center" src="https://www.svgrepo.com/show/249896/browser-www.svg" alt="Website" height="30" width="40" /></a>
 </p>
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
+<hr>
+
+<h2 style="color: #44AEFB">![alt text](image.png) AI Tools</h2>
+<!-- Logo of C Language -->
+    <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="https://thumbs.dreamstime.com/b/minsk-belarus-openai-chatgpt-logo-artifical-chatbot-system-chat-bot-button-web-app-phone-icon-symbol-editorial-vector-275376231.jpg?w=360" alt="c" width="40" height="40"/> </a> 
+
 <hr>
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
@@ -149,8 +154,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" alt="unity" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png?20180920122700" alt="unity" width="40" height="40"/>
     <img src="https://www.svgrepo.com/show/354299/rubymine.svg" alt="unity" width="40" height="40"/>
-    <!-- <img src="" alt="unity" width="40" height="40"/> -->
-    <img src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" alt="unity" width="40" height="40"/>
 </p>
 
 <!-- start -->
