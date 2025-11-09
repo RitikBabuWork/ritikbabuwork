@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Youtube Logo with Coding Will Channel Link 🔗 -->  
 <a href="https://www.youtube.com/channel/UCqLVDNa2tHOvogL4XHKaI9Q" target="blank"><img align="center" src="https://www.svgrepo.com/show/349577/youtube.svg" alt="Youtube" height="30" width="40" /></a>
 <!-- Twitter Logo with ritikcoder Handle Link 🔗 -->
-<a href="https://twitter.com/home" target="blank"><img align="center" src="https://www.svgrepo.com/show/349537/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/CodeWithRitik" target="blank"><img align="center" src="https://www.svgrepo.com/show/349537/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <!-- Linkedin Logo with ritikcoder Handle Link 🔗 -->
 <a href="https://www.linkedin.com/in/ritik-verma-7bb674397/" target="blank"><img align="center" src="https://www.svgrepo.com/show/343567/linkedin-network-communication-connection-internet-online.svg" alt="Linkedin" height="30" width="40" /></a>
 <!-- WhatsApp Logo with ritikcoder Handle Link 🔗 -->
@@ -143,8 +143,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
     <!-- Logo of Microsoft Office Language -->
     <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303589/office-1-logo.svg" alt="unity" width="40" height="40"/> </a>
-    <!-- Logo of Adobe Language -->
-    <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 <hr>
 
@@ -171,38 +169,20 @@ You can click the Preview link to take a look at your changes.
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center"></div>
 
-<!-- ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledBadranDev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KhaledBadranDev&count_private=true&theme=algolia&border_radius=20) -->
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div> -->
-<!--  End Stats Cards -->
-<!-- end -->
-
-<!-- <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithritikcoder&show_icons=true&locale=en&layout=compact" alt="codewithritikcoder" /></p> -->
 <hr>
-<p align="left"> <a href="https://twitter.com/CodeWithRitik" target="blank"><img src="https://img.shields.io/twitter/follow/CodeWithRitik?logo=twitter&style=for-the-badge" alt="RitikCoder's Twitter" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CodeWithRitik" target="blank"><img src="https://img.shields.io/twitter/follow/CodeWithRitik?logo=twitter&style=for-the-badge" alt="RitikVerma's Twitter" /></a> </p>
 <!-- end -->
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CodeWithRitikBoss&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=CodeWithRitikBoss&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ritikbabuwork&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ritikbabuwork&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <!-- <img width=325 align="center" src="https://github-readme-stats-CodeWithRitikBoss.vercel.app/api/top-langs/?username=CodeWithRitikBoss&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+  <img width=325 align="center" src="https://github-readme-stats-CodeWithRitikBoss.vercel.app/api/top-langs/?username=ritikbabuwork&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <hr>
 
