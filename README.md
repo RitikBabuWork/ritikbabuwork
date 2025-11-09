@@ -73,11 +73,11 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-<h2 style="color: #44AEFB">![alt text](image.png) AI Tools</h2>
+<h2 style="color: #44AEFB">✈️ AI Tools</h2>
 <!-- Logo of ChatGPT AI -->
-    <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1690998448chat-gpt-logo-png.png" alt="c" width="40" height="40"/> </a> 
+    <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1690998448chat-gpt-logo-png.png" alt="ChatGPT AI" width="40" height="40"/> </a> 
 <!-- Logo of Gemini AI -->
-    <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1728457808_gemini_Icon_png.png" alt="c" width="40" height="40"/> </a> 
+    <a href="#ChapGPT" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1728457808_gemini_Icon_png.png" alt="Gemini AI" width="40" height="40"/> </a> 
 
 <hr>
 
